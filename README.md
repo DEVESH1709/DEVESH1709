@@ -4,10 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh1709&label=Profile%20views&color=0e75b6&style=flat" alt="devesh1709" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh1709" alt="devesh1709" /></a> </p>
+-🌱 I’m currently learning  **Data Structure And Algorithm**
 
-- 📫 How to reach me **deveshkesharwani2003@gmail.com**
 
 - ⚡ Fun fact **I Think beyond engineering**
+  
+- 💬 Ask me about **React**
+-  📫 How to reach me **deveshkesharwani2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
