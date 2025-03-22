@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh1709" alt="devesh1709" /></a> </p>
 -🌱 I’m currently learning  **Data Structure And Algorithm**
 
-
 - ⚡ Fun fact **I Think beyond engineering**
   
 - 💬 Ask me about **React**
